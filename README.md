@@ -7,8 +7,8 @@
 
 * Techniques : 
 
-** Missing value imputation
-** Outliers detection and elimination
-** Multivariate analysis
-** Feature Selection using ANOVA and Chi Square Test
-** Regression using : Logistic Regression, Random Forest, Gradient Boosting Classifier and XGBoost Classifier
+  * Missing value imputation
+  * Outliers detection and elimination
+  * Multivariate analysis
+  * Feature Selection using ANOVA and Chi Square Test
+  * Regression using : Logistic Regression, Random Forest, Gradient Boosting Classifier and XGBoost Classifier
